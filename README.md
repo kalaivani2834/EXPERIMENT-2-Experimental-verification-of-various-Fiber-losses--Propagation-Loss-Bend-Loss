@@ -15,6 +15,7 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 - Losses due to absorption, scattering, bending  
 - Plastic fiber loss ~180 dB/km  
 - Bending loss increases with reduced loop diameter  
+<img width="815" height="431" alt="image" src="https://github.com/user-attachments/assets/1704eb8b-9173-432a-9c12-fc39faa4978d" />
 
 **Procedure:**  
 - Setup for 660nm and 950nm measurements  
